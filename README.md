@@ -6,7 +6,7 @@ This plugin provides real-time monitoring of optical health and ONT internals di
 
 ## Compatibility
 * **Hardware:** WAS-110 SFP ONT
-* **Firmware:** 8311 v2.8.3 Custom Firmware (required for API access)
+* **Firmware:** 8311 v2.8.3+ Community Firmware (required for API access)
 
 ## Features
 * **Customizable Dashboard:** Choose which metrics to display via widget settings.
