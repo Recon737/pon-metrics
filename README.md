@@ -17,4 +17,4 @@ This plugin provides real-time monitoring of optical health and ONT internals di
 Install the plugin directly via the command line:
 
 ```bash
-pkg add [https://github.com/thespencire/pon-metrics/releases/download/v1.0.0/os-pon-metrics-1.0.pkg](https://github.com/thespencire/pon-metrics/releases/download/v1.0.0/os-pon-metrics-1.0.pkg)
+pkg add https://github.com/thespencire/pon-metrics/releases/download/v1.0.0/os-pon-metrics-1.0.pkg
