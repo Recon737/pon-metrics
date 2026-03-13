@@ -13,7 +13,6 @@ This plugin provides real-time monitoring of optical health and ONT internals di
 * **Configuration Settings:** Settings page under the Reporting tab with options for your ONT IP (default 192.168.11.1) and temperature threshold for text highlighting.
 
 ## Installation
-### 1. Via Pre-built Package
 Install the plugin directly via the command line:
 
 ```bash
